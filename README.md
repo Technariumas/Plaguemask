@@ -1,2 +1,2 @@
 # Plaguemask
-Laser cuttable plague mask design by Algis Ribikauskas
+Laser cut plague mask. Idea by miceuz, CAD by Algis Ribikauskas.
